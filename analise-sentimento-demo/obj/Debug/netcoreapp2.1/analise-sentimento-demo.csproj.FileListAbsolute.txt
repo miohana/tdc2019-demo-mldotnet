@@ -1,0 +1,12 @@
+D:\repositories\analise-sentimento-demo\analise-sentimento-demo\bin\Debug\netcoreapp2.1\analise-sentimento-demo.deps.json
+D:\repositories\analise-sentimento-demo\analise-sentimento-demo\bin\Debug\netcoreapp2.1\analise-sentimento-demo.runtimeconfig.json
+D:\repositories\analise-sentimento-demo\analise-sentimento-demo\bin\Debug\netcoreapp2.1\analise-sentimento-demo.runtimeconfig.dev.json
+D:\repositories\analise-sentimento-demo\analise-sentimento-demo\bin\Debug\netcoreapp2.1\analise-sentimento-demo.dll
+D:\repositories\analise-sentimento-demo\analise-sentimento-demo\bin\Debug\netcoreapp2.1\analise-sentimento-demo.pdb
+D:\repositories\analise-sentimento-demo\analise-sentimento-demo\obj\Debug\netcoreapp2.1\analise-sentimento-demo.csprojAssemblyReference.cache
+D:\repositories\analise-sentimento-demo\analise-sentimento-demo\obj\Debug\netcoreapp2.1\analise-sentimento-demo.csproj.CoreCompileInputs.cache
+D:\repositories\analise-sentimento-demo\analise-sentimento-demo\obj\Debug\netcoreapp2.1\analise-sentimento-demo.AssemblyInfoInputs.cache
+D:\repositories\analise-sentimento-demo\analise-sentimento-demo\obj\Debug\netcoreapp2.1\analise-sentimento-demo.AssemblyInfo.cs
+D:\repositories\analise-sentimento-demo\analise-sentimento-demo\obj\Debug\netcoreapp2.1\analise-sentimento-demo.dll
+D:\repositories\analise-sentimento-demo\analise-sentimento-demo\obj\Debug\netcoreapp2.1\analise-sentimento-demo.pdb
+D:\repositories\analise-sentimento-demo\analise-sentimento-demo\bin\Debug\netcoreapp2.1\data\yelp_labelled.txt
